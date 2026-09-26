@@ -1,5 +1,5 @@
 --[[
-    Silence - Ml Main
+    AFX Ml Main
     by Henne @xyzhenrik_
 ]]
 
