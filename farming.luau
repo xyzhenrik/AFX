@@ -1,5 +1,5 @@
 --[[
-    Silence - Ml Farming
+    AFX Farming
     by Henne @xyzhenrik_
        Muki @mukimagdich
 ]]
