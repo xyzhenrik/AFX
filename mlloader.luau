@@ -1,5 +1,5 @@
 --[[
-    Silence - ML Loader
+    AFX ML Loader
     by Henne @xyzhenrik_
 ]]
 
