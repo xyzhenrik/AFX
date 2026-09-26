@@ -1369,9 +1369,8 @@ tabs.other:AddButton("Equip Rep Pets", function()
 end)
 
 tabs.info:Show()
-tabs.info:AddLabel("Made with ♥️ by Henne and Muki").TextSize = 17
-tabs.info:AddLabel("Any issue? Ping @xyzhenrik_ or @mukimagdich on Discord").TextSize = 17
-tabs.info:AddLabel("")
-tabs.info.wLabel = tabs.info:AddLabel("Farming [V4.1.2]")
+tabs.info:AddLabel("Made by Shinitzuu").TextSize = 17
+tabs.info:AddLabel("AFX CLAN Discord: https://discord.gg/9hzSH2AjJ").TextSize = 17
+
 tabs.info.wLabel.TextSize = 20
 tabs.info.wLabel.Font = Enum.Font.Arcade
